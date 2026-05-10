@@ -45,4 +45,4 @@ createApp({
             }
         }
     }
-}).mount('#iletisimFormu');
+}).mount('#iletisimFormu'); 
